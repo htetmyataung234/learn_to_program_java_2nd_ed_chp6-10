@@ -2,7 +2,7 @@
 public class Chap6StackObject {
 	//This program demonstrates object instantiation
 	//by revisiting the Stack example
-	public static void main(String[] args) {
+	public static void main(String[] argv) {
 		//In this program, insert 10 numbers
 		//and print all numbers pushed into stack
 		
